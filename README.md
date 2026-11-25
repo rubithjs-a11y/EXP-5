@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 5 – ZENER DIODE AS VOLTAGE REGULATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | Rubith J S | **Reg. No.:** | 26013038|
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |23-11-2026 | **Batch / Section:** | |
 
 ---
 
@@ -60,12 +60,14 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 ## CIRCUIT DIAGRAM
 
 ### A. Line regulation
+<img width="1040" height="505" alt="image" src="https://github.com/user-attachments/assets/024aabbc-5da3-439d-90e7-752526c082b1" />
 
 *[ Insert the line regulation circuit diagram here ]*
 
 **Figure 1:** Zener voltage regulator – line regulation
 
 ### B. Load regulation
+<img width="1042" height="620" alt="image" src="https://github.com/user-attachments/assets/0c00e6cb-2586-47cf-8a07-dfcab838f0a1" />
 
 *[ Insert the load regulation circuit diagram here ]*
 
@@ -76,12 +78,14 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 Build the Zener regulator circuit in Proteus using the 1N4735A, the series resistor and the load. Vary the input voltage (line regulation) and the load resistance (load regulation), and paste screenshots showing the meter readings.
 
 ### A. Line regulation – simulation
+<img width="872" height="472" alt="image" src="https://github.com/user-attachments/assets/95804e1c-cdcd-49de-b664-2732b1c66908" />
 
 *[ Paste the Proteus line regulation simulation screenshot here ]*
 
 **Figure 3:** Proteus simulation – line regulation
 
 ### B. Load regulation – simulation
+<img width="911" height="528" alt="image" src="https://github.com/user-attachments/assets/98468bd0-ac1f-489f-8ed4-c1659918276c" />
 
 *[ Paste the Proteus load regulation simulation screenshot here ]*
 
@@ -93,27 +97,26 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 | S. No. | Input voltage Vin (V) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 |12.0 |5.14|
+| 2 |13.0|5.16|
+| 3 |14.0|5.17|
+| 4 |15.0|5.17|
+| 5 |16.0|5.18|
+| 6 |16.0|5.18|
+| 7 |17.0|5.19|
+
 
 ### B. Load regulation (Vin = ________ V, constant; VNL = ________ V)
 
 | S. No. | Load resistance RL (Ω) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 |100|5.19|
+| 2 |200|5.20|
+| 3 |300|5.20|
+| 4 |400|5.20|
+| 5 |500|5.20|
+| 6 |600|5.21|
+
 
 ## FORMULAE
 
